@@ -28,24 +28,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://esquilo.io/png/thumb/EWq7YmrTeHU0EZi-Frog-Meme-PNG-Transparent-Picture.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/waluda/babayaga">
+    <img src="https://i.pinimg.com/originals/ca/eb/05/caeb05e5590a8f0f7aeb520fdf955bda.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Babayaga Forge 1.16.5 Minecraft Server</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Mods
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Herunterladen »</strong></a>
 </div>
 
 
