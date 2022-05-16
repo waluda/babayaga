@@ -12,5 +12,5 @@
   <p align="center">
     Mods
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Herunterladen »</strong></a>
+    <a href="http://oc.waluda.de:8050/index.php/s/HeCJ37JGIGq2HXu"><strong>HERUNTERLADEN</strong></a>
 </div>
